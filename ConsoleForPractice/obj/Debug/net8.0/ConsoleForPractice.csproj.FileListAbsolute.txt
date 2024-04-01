@@ -1,0 +1,14 @@
+C:\Users\shawn_huang\source\repos\ConsoleForPractice\ConsoleForPractice\obj\Debug\net8.0\ConsoleForPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawn_huang\source\repos\ConsoleForPractice\ConsoleForPractice\obj\Debug\net8.0\ConsoleForPractice.AssemblyInfoInputs.cache
+C:\Users\shawn_huang\source\repos\ConsoleForPractice\ConsoleForPractice\obj\Debug\net8.0\ConsoleForPractice.AssemblyInfo.cs
+C:\Users\shawn_huang\source\repos\ConsoleForPractice\ConsoleForPractice\obj\Debug\net8.0\ConsoleForPractice.csproj.CoreCompileInputs.cache
+C:\Users\shawn_huang\source\repos\ConsoleForPractice\ConsoleForPractice\bin\Debug\net8.0\ConsoleForPractice.exe
+C:\Users\shawn_huang\source\repos\ConsoleForPractice\ConsoleForPractice\bin\Debug\net8.0\ConsoleForPractice.deps.json
+C:\Users\shawn_huang\source\repos\ConsoleForPractice\ConsoleForPractice\bin\Debug\net8.0\ConsoleForPractice.runtimeconfig.json
+C:\Users\shawn_huang\source\repos\ConsoleForPractice\ConsoleForPractice\bin\Debug\net8.0\ConsoleForPractice.dll
+C:\Users\shawn_huang\source\repos\ConsoleForPractice\ConsoleForPractice\bin\Debug\net8.0\ConsoleForPractice.pdb
+C:\Users\shawn_huang\source\repos\ConsoleForPractice\ConsoleForPractice\obj\Debug\net8.0\ConsoleForPractice.dll
+C:\Users\shawn_huang\source\repos\ConsoleForPractice\ConsoleForPractice\obj\Debug\net8.0\refint\ConsoleForPractice.dll
+C:\Users\shawn_huang\source\repos\ConsoleForPractice\ConsoleForPractice\obj\Debug\net8.0\ConsoleForPractice.pdb
+C:\Users\shawn_huang\source\repos\ConsoleForPractice\ConsoleForPractice\obj\Debug\net8.0\ConsoleForPractice.genruntimeconfig.cache
+C:\Users\shawn_huang\source\repos\ConsoleForPractice\ConsoleForPractice\obj\Debug\net8.0\ref\ConsoleForPractice.dll
