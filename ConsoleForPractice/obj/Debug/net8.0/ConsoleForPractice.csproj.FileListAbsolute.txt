@@ -12,3 +12,4 @@ C:\Users\shawn_huang\source\repos\ConsoleForPractice\ConsoleForPractice\obj\Debu
 C:\Users\shawn_huang\source\repos\ConsoleForPractice\ConsoleForPractice\obj\Debug\net8.0\ConsoleForPractice.pdb
 C:\Users\shawn_huang\source\repos\ConsoleForPractice\ConsoleForPractice\obj\Debug\net8.0\ConsoleForPractice.genruntimeconfig.cache
 C:\Users\shawn_huang\source\repos\ConsoleForPractice\ConsoleForPractice\obj\Debug\net8.0\ref\ConsoleForPractice.dll
+C:\Users\shawn_huang\source\repos\ConsoleForPractice\ConsoleForPractice\obj\Debug\net8.0\ConsoleForPractice.sourcelink.json
