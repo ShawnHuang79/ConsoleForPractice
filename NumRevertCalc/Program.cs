@@ -11,6 +11,7 @@
                     Console.WriteLine(i);
                 }
             }
+
         }
         public static bool CanReverseByMultiplication(int number)
         {
