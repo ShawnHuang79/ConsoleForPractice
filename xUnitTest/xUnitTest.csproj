@@ -17,6 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\CardFlipToBack\CardFlipToBack.csproj" />
     <ProjectReference Include="..\ConsoleForPractice\ConsoleForPractice.csproj" />
     <ProjectReference Include="..\NumRevertCalc\NumRevertCalc.csproj" />
   </ItemGroup>

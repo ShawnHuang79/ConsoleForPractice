@@ -6,10 +6,15 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleForPractice", "ConsoleForPractice\ConsoleForPractice.csproj", "{6F076E98-6CB9-4DC7-849A-D0C37143DA0B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xUnitTest", "xUnitTest\xUnitTest.csproj", "{C612D10B-2EAA-48CF-A405-66C39065C0B9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E4ED91EE-CB93-4955-A969-1F7F67BFC3B3} = {E4ED91EE-CB93-4955-A969-1F7F67BFC3B3}
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumRevertCalc", "NumRevertCalc\NumRevertCalc.csproj", "{5A22B9B1-8CEB-47FA-817A-1671BCB96E45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceBuild", "InterfaceBuild\InterfaceBuild.csproj", "{D3B39940-8F8A-4C5A-9F3C-E67FC128D3D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceBuild", "InterfaceBuild\InterfaceBuild.csproj", "{D3B39940-8F8A-4C5A-9F3C-E67FC128D3D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardFlipToBack", "CardFlipToBack\CardFlipToBack.csproj", "{E4ED91EE-CB93-4955-A969-1F7F67BFC3B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +38,10 @@ Global
 		{D3B39940-8F8A-4C5A-9F3C-E67FC128D3D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3B39940-8F8A-4C5A-9F3C-E67FC128D3D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3B39940-8F8A-4C5A-9F3C-E67FC128D3D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4ED91EE-CB93-4955-A969-1F7F67BFC3B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4ED91EE-CB93-4955-A969-1F7F67BFC3B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4ED91EE-CB93-4955-A969-1F7F67BFC3B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4ED91EE-CB93-4955-A969-1F7F67BFC3B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

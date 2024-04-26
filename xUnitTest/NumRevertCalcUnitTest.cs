@@ -1,6 +1,4 @@
-﻿using static System.Runtime.InteropServices.JavaScript.JSType;
-
-namespace NumRevertCalcUnit.Tests
+﻿namespace NumRevertCalc.Tests
 {
     public class NumRevertCalcUnitTest
     {
@@ -12,7 +10,7 @@ namespace NumRevertCalcUnit.Tests
         public void IsNumRevertCalcCorrectly(int number, bool expected)
         {
             // Act
-            bool result = NumRevertCalc.Program.CanReverseByMultiplication(number);
+            bool result = Program.CanReverseByMultiplication(number);
 
             // Assert
             Assert.Equal(expected, result);
